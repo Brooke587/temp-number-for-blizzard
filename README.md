@@ -96,7 +96,7 @@ Blizzard has been known to reject certain categories of virtual numbers, particu
 
 - A web browser or the Battle.net desktop client
 - An email address (preferably not your primary one, for compartmentalization)
-- A [virtual number for gaming account verification](https://1001sms.com/blizzard?ref=P38AB)
+- A [virtual number for gaming account verification](https://1001sms.com/?ref=P38AB)
 
 ### Step 1: Purchase a Virtual Number
 
@@ -310,7 +310,7 @@ SIM swapping is one of the most dangerous threats to accounts protected by SMS-b
 
 ### How Virtual Numbers Prevent SIM Swaps
 
-A virtual number from an [online SMS verification](https://1001sms.com/blizzard?ref=P38AB) provider cannot be SIM-swapped because:
+A virtual number from an [online SMS verification](https://1001sms.com/?ref=P38AB) provider cannot be SIM-swapped because:
 
 - There is no mobile carrier to social-engineer
 - The number is not tied to a physical SIM card
