@@ -1,473 +1,458 @@
-# How to Create Gmail Without a Phone Number (2026 Guide)
+# How to Create a Blizzard (Battle.net) Account Without a Personal Phone Number (2026)
 
-Gmail is the world's most popular email service with over 1.8 billion active users. While Gmail is technically part of a Google account, millions of people search specifically for how to create a Gmail address without providing a personal phone number. This guide focuses on the Gmail-specific experience -- from creating your @gmail.com address to configuring it for daily use, all without exposing your personal phone number.
+> A thorough guide to setting up a Blizzard Battle.net account using a virtual number -- play Overwatch 2 ranked, Call of Duty competitive modes, and World of Warcraft without tying your personal phone to your gaming identity.
 
 ---
 
 ## Table of Contents
 
-- [Why Gmail Sometimes Requires Phone Verification](#why-gmail-sometimes-requires-phone-verification)
-- [When Gmail Does and Does Not Ask for a Phone Number](#when-gmail-does-and-does-not-ask-for-a-phone-number)
-- [Creating Gmail With a Virtual Phone Number](#creating-gmail-with-a-virtual-phone-number)
-- [Step-by-Step: Set Up a New Gmail Account](#step-by-step-set-up-a-new-gmail-account)
-- [Choosing the Right Gmail Address](#choosing-the-right-gmail-address)
-- [Managing Multiple Gmail Accounts](#managing-multiple-gmail-accounts)
-- [Gmail Security Without a Phone Number](#gmail-security-without-a-phone-number)
-- [Setting Up App Passwords for Third-Party Clients](#setting-up-app-passwords-for-third-party-clients)
-- [Gmail Privacy Settings and Configuration](#gmail-privacy-settings-and-configuration)
-- [Using Gmail With Email Clients](#using-gmail-with-email-clients)
-- [Troubleshooting Gmail Signup Issues](#troubleshooting-gmail-signup-issues)
+- [Why Gamers Want Battle.net Without a Personal Number](#why-gamers-want-battlenet-without-a-personal-number)
+- [Why Blizzard Requires SMS Verification](#why-blizzard-requires-sms-verification)
+- [What Is a Virtual Phone Number](#what-is-a-virtual-phone-number)
+- [Step-by-Step: Create Battle.net With a Virtual Number](#step-by-step-create-battlenet-with-a-virtual-number)
+- [Games That Require Phone Verification](#games-that-require-phone-verification)
+- [Setting Up the Blizzard Authenticator](#setting-up-the-blizzard-authenticator)
+- [Protecting Your Gaming Account From Hackers](#protecting-your-gaming-account-from-hackers)
+- [SIM Swap Attacks and Why Gamers Are Targeted](#sim-swap-attacks-and-why-gamers-are-targeted)
+- [Account Recovery Without Your Original Number](#account-recovery-without-your-original-number)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Gmail Account Security Checklist](#gmail-account-security-checklist)
+- [Security Checklist](#security-checklist)
 - [Affiliate Disclosure](#affiliate-disclosure)
 - [Keywords](#keywords)
 
 ---
 
-## Why Gmail Sometimes Requires Phone Verification
+## Why Gamers Want Battle.net Without a Personal Number
 
-Gmail account creation and Google account creation are the same process -- your Gmail address is your Google account username. However, the phone verification trigger varies based on several factors:
+Blizzard Entertainment's Battle.net is the gateway to some of the most popular games in the world -- Overwatch 2, Call of Duty, World of Warcraft, Diablo IV, Hearthstone, and StarCraft. With millions of active players and a thriving in-game economy, Battle.net accounts have become valuable targets for hackers, phishers, and social engineers.
 
-| Factor | Impact on Phone Verification |
-|--------|------------------------------|
-| IP address reputation | Data center IPs, known VPN endpoints, and IPs with a history of abuse almost always trigger verification. |
-| Geographic location | Certain regions have higher fraud rates, prompting more aggressive verification. |
-| Browser fingerprint | Automated browsers, heavily modified fingerprints, or Tor Browser trigger enhanced checks. |
-| Account creation velocity | Creating multiple accounts from the same IP or device in a short period triggers verification. |
-| Device history | A device that has never been associated with a Google account is more likely to trigger verification. |
-| Time of day | Some users report that off-peak hours (late night, early morning) correlate with fewer verification prompts, though this is anecdotal. |
+**Reasons gamers use virtual numbers for Battle.net:**
 
-Google's verification system uses machine learning to assess risk. There is no single trick that guarantees bypassing it -- the system adapts continuously. The most reliable approach is to use a virtual phone number when verification is required.
-
----
-
-## When Gmail Does and Does Not Ask for a Phone Number
-
-Understanding the patterns helps you plan:
-
-### Scenarios More Likely to Skip Phone Verification
-
-- Creating an account on a personal device that already has Google accounts signed in
-- Using a residential ISP (not mobile data, not VPN)
-- First-time account creation from a device (not the 5th account from the same laptop)
-- Using Chrome browser with a clean profile (not incognito, which Google may flag as suspicious)
-
-### Scenarios That Almost Always Require Phone Verification
-
-- Any VPN, proxy, or Tor connection
-- Cloud server or data center IP addresses
-- Browsers with anti-fingerprinting extensions active
-- Multiple account creation attempts from the same environment
-- Accounts created from IP addresses previously associated with abuse
-- Incognito/private browsing windows (counterintuitively, these are flagged more often)
-
-Even in the "more likely to skip" scenarios, Google may still request phone verification. The decision is ultimately made server-side based on an overall risk score.
+- **Gaming privacy** -- Your Battle.net account contains your real name, payment information, and gaming history. Adding your personal phone number creates one more data point that can be exploited in a breach.
+- **Competitive mode access** -- Games like Overwatch 2 and Call of Duty require SMS verification specifically for ranked and competitive play. Players who already have an account but never added a phone number need one to unlock these modes.
+- **Secondary accounts** -- Some players maintain alternate accounts for practicing new heroes or roles without affecting their main rank (commonly called "alt" or "smurf" accounts, though Blizzard has policies around this).
+- **SIM swap protection** -- High-value gaming accounts are prime targets for SIM swap attacks. Using a virtual number that cannot be SIM-swapped adds a layer of security.
+- **International players** -- Gamers in countries where Blizzard services are limited may need numbers from supported regions.
+- **Avoiding data aggregation** -- Your phone number links your gaming identity to your real-world identity across data broker databases.
+- **Parental control** -- Parents setting up managed accounts for children may not want to attach the child's phone number to a gaming platform.
 
 ---
 
-## Creating Gmail With a Virtual Phone Number
+## Why Blizzard Requires SMS Verification
 
-When Gmail requires phone verification -- and it usually does -- a virtual phone number is the most straightforward solution. Here is what you need to know:
+Blizzard has progressively tightened phone verification requirements across its games, particularly after the launch of free-to-play titles.
 
-### What Is a Virtual Number?
+### The Free-to-Play Problem
 
-A virtual phone number is a temporary, disposable number that can receive SMS messages. It exists only for the duration needed to receive a verification code. Key characteristics:
+When Overwatch 2 launched as free-to-play in 2022, Blizzard initially required phone verification for all players. After backlash, they relaxed requirements for casual play but maintained them for competitive modes. The reason is straightforward: free-to-play games attract cheaters who create throwaway accounts. Phone verification adds friction that makes ban evasion more costly.
 
-- Not tied to a physical SIM card or personal identity
-- Receives standard SMS messages including verification codes
-- Available for specific services (Gmail/Google, social media, etc.)
-- Typically single-use -- once the code is received, the number expires or can be released
+### Where Phone Verification Is Required
 
-### Why Not Use Free Online SMS Receivers?
+| Game / Feature | Phone Required | Why |
+|---|---|---|
+| Overwatch 2 -- Competitive Mode | Yes | Anti-cheat and smurf prevention |
+| Call of Duty -- Ranked Play | Yes | Anti-cheat enforcement |
+| Call of Duty -- Warzone | Varies by season | Cheater deterrent for battle royale |
+| World of Warcraft | Optional but encouraged | Account security |
+| Diablo IV | No | But recommended for security |
+| Hearthstone | No | Basic account sufficient |
+| Battle.net account creation | Sometimes | Depends on region and risk signals |
+| Blizzard Authenticator | No (uses app) | But phone helps with recovery |
 
-Free public SMS receiving websites share numbers publicly. Google blocks these numbers proactively because:
+### What Blizzard Does With Your Number
 
-- The same number appears on thousands of verification attempts
-- Google crawls known public SMS sites and blacklists their numbers
-- Codes sent to public numbers can be intercepted by other users
-- These services are unreliable -- numbers go offline frequently
-
-A [virtual number for Gmail verification](https://1001sms.com/gmail?ref=P38AB) from a dedicated service provides a private number that is not shared with other users, resulting in significantly higher success rates.
-
----
-
-## Step-by-Step: Set Up a New Gmail Account
-
-### Step 1: Prepare Your Setup
-
-For the smoothest experience:
-
-- Use Chrome or Firefox on a desktop/laptop (not mobile)
-- Connect through your regular home internet (no VPN)
-- Clear cookies or use a fresh browser profile (not incognito)
-- Have your virtual number ready before starting
-
-### Step 2: Navigate to Gmail Signup
-
-1. Go to [gmail.com](https://www.gmail.com)
-2. Click "Create account"
-3. Select "For my personal use" (or "For work or my business" if applicable)
-
-### Step 3: Fill In Your Details
-
-1. **First name** and **Last name** -- These appear as your sender name in emails
-2. **Birthday** -- Must indicate you are 13 or older (18+ in some regions)
-3. **Gender** -- Can select "Rather not say"
-4. Click "Next"
-
-### Step 4: Choose Your Gmail Address
-
-You have two options:
-
-- **Choose a suggested address** -- Google generates options based on your name
-- **Create your own** -- Type your preferred username
-
-Tips for choosing a good Gmail address:
-
-| Consideration | Good Practice | Avoid |
-|---------------|---------------|-------|
-| Professionalism | firstname.lastname | xXcoolname99Xx |
-| Memorability | short, clear words | long strings of numbers |
-| Longevity | timeless format | year-specific (john2026) |
-| Privacy | does not reveal personal info | full birthdate in address |
-| Availability | add middle initial or profession | random number suffixes |
-
-### Step 5: Set Your Password
-
-- Minimum 8 characters (Google's requirement)
-- Recommended: 16+ characters with mixed case, numbers, and symbols
-- Use a password manager to generate and store it
-- Never reuse a password from another service
-
-### Step 6: Phone Verification
-
-When the phone verification screen appears:
-
-1. Select the country code matching your virtual number
-2. Enter the virtual number
-3. Click "Next" or "Send code"
-4. Retrieve the verification code from your virtual number dashboard
-5. Enter the 6-digit code
-6. Click "Verify"
-
-### Step 7: Recovery Options
-
-- **Recovery email**: Add one from a different provider (Outlook, ProtonMail, etc.) -- highly recommended
-- **Recovery phone**: You can skip this if you plan to use authenticator-based 2FA
-
-### Step 8: Agree to Terms
-
-Review and accept Google's Terms of Service and Privacy Policy. Your Gmail account is now active.
+1. **Sends SMS verification codes** during registration or when enabling security features
+2. **Links your account** to a phone number for recovery purposes
+3. **Flags suspicious activity** by checking if the same number is used across multiple accounts
+4. **Blocks certain number types** -- Blizzard has historically blocked some VoIP and prepaid numbers, though policies change over time
 
 ---
 
-## Choosing the Right Gmail Address
+## What Is a Virtual Phone Number
 
-Your Gmail address is permanent -- it cannot be changed after creation (though you can create a new account). Choose carefully:
+A virtual phone number is a real phone number that receives SMS messages through an online platform instead of a physical SIM card. For gaming account verification, it functions identically to a regular mobile number.
 
-### Gmail Address Tricks
+### Types for Gaming Use
 
-- **Dot notation**: Gmail ignores dots in addresses. `john.smith@gmail.com` and `johnsmith@gmail.com` receive the same mail. You own all dot variations.
-- **Plus addressing**: `yourname+shopping@gmail.com` and `yourname+newsletters@gmail.com` all deliver to `yourname@gmail.com`. Use this to filter and organize incoming mail.
-- **googlemail.com**: In some countries, `@googlemail.com` is an alias for `@gmail.com`. Mail to either domain reaches the same inbox.
+| Type | Duration | Best For |
+|---|---|---|
+| One-time use | 15-20 minutes | Quick account setup with authenticator already planned |
+| Short-term rental | 1-7 days | Registration + initial security lockdown |
+| Long-term rental | 1-6 months | Ongoing competitive play, account recovery access |
 
-### Creating Separate Gmail Addresses for Different Purposes
+### Important Note About Blizzard and VoIP Numbers
 
-| Purpose | Address Pattern Example | Benefit |
-|---------|------------------------|---------|
-| Professional | firstname.lastname@gmail.com | Clean, recognizable |
-| Online shopping | shopname.buyer@gmail.com | Isolates retail communications |
-| Social media signups | social.handle.mail@gmail.com | Separates social notifications |
-| Newsletter subscriptions | news.reader.inbox@gmail.com | Easy to abandon if overwhelmed |
-| Development/testing | devtest.projects@gmail.com | Keeps dev notifications separate |
+Blizzard has been known to reject certain categories of virtual numbers, particularly US-based VoIP numbers. To maximize success:
 
----
-
-## Managing Multiple Gmail Accounts
-
-Many users need more than one Gmail address. Here is how to manage multiple accounts effectively:
-
-### Account Switching in Gmail
-
-- Gmail supports signing into multiple accounts simultaneously
-- Click your profile icon in the top-right to switch between accounts
-- Each account maintains separate inbox, settings, and storage
-
-### Browser Profile Approach
-
-- Create separate Chrome profiles for each Gmail account
-- Each profile has its own cookies, history, and extensions
-- Prevents accidental cross-account activity
-
-### Email Forwarding
-
-1. In Gmail Settings > Forwarding and POP/IMAP
-2. Add a forwarding address
-3. Verify the forwarding address
-4. Choose to forward all mail, keep a copy in the original inbox
-
-### Verification for Each Account
-
-Each new Gmail account requires its own verification. You cannot reuse the same phone number for many accounts (Google limits reuse to approximately 2-4 accounts per number). For multiple accounts, obtain separate virtual numbers from a [temporary phone number service](https://1001sms.com/gmail?ref=P38AB) for each.
+- Use mobile-type virtual numbers (not landline or VoIP designations)
+- Try numbers from countries with large mobile pools (Indonesia, Philippines, UK)
+- If one number is rejected, try a different country rather than assuming virtual numbers do not work
 
 ---
 
-## Gmail Security Without a Phone Number
+## Step-by-Step: Create Battle.net With a Virtual Number
 
-After creating your Gmail account without your personal phone, implement these security measures:
+### Prerequisites
 
-### Two-Factor Authentication (2FA) With Authenticator App
+- A web browser or the Battle.net desktop client
+- An email address (preferably not your primary one, for compartmentalization)
+- A [virtual number for gaming account verification](https://1001sms.com/blizzard?ref=P38AB)
 
-This is the single most important security step:
+### Step 1: Purchase a Virtual Number
 
-1. Go to [myaccount.google.com/signinoptions/two-step-verification](https://myaccount.google.com/signinoptions/two-step-verification)
-2. Click "Get Started"
-3. Sign in with your new Gmail account
-4. Under "Authenticator app," click "Set up"
-5. Choose your phone type (Android or iPhone)
-6. Scan the QR code with Google Authenticator, Authy, 2FAS, or any TOTP-compatible app
-7. Enter the generated code to verify
-8. Click "Turn On"
+1. Log into your virtual number provider
+2. Search for "Blizzard" or "Battle.net" in the service list
+3. Choose a country -- UK, Indonesia, or Philippines tend to have high success rates
+4. Purchase the number
+5. Keep the provider dashboard open in a separate tab or window
 
-### Backup Codes
+### Step 2: Create a Battle.net Account
 
-After enabling 2FA:
+1. Go to **account.blizzard.com/creation** or open the Battle.net desktop app
+2. Click **"Create a Free Account"**
+3. Fill in the required information:
+   - Country/Region of residence
+   - Date of birth
+   - Email address
+   - First and last name
+   - Password (use a strong, unique password -- 16+ characters recommended)
+4. Complete the CAPTCHA
+5. Click **"Create Account"**
+6. Verify your email address by clicking the link Blizzard sends
 
-1. Navigate to the 2FA settings page
-2. Under "Backup codes," click "Set Up" or "Show Codes"
-3. Google generates 10 single-use backup codes
-4. Save these in your password manager or print them
-5. Each code works exactly once
-6. You can generate new codes at any time (invalidating the old ones)
+### Step 3: Add Phone Number for SMS Protect
 
-### Hardware Security Key
+1. Log into your Battle.net account at **account.blizzard.com**
+2. Navigate to **Security > Phone Number**
+3. Select **"Add Phone Number"**
+4. Choose the country code matching your virtual number
+5. Enter the virtual number
+6. Click **"Continue"** -- Blizzard sends a verification code via SMS
+7. Switch to your virtual number provider dashboard
+8. Copy the verification code (arrives within 30-120 seconds)
+9. Enter the code on Battle.net
+10. Your phone number is now linked
 
-For maximum security:
+### Step 4: Enable the Blizzard Authenticator Immediately
 
-1. Purchase a FIDO2-compatible security key (YubiKey 5, Google Titan, SoloKeys)
-2. In 2FA settings, click "Add security key"
-3. Insert the key and follow the registration prompts
-4. Register at least two keys for redundancy
-5. Security keys provide phishing-resistant authentication -- the key verifies the domain
+This is the most important step. The Blizzard Authenticator replaces SMS as your primary security method, meaning you no longer depend on the virtual number for ongoing access.
 
-### Recovery Email Configuration
+1. Download the **Blizzard Authenticator** app:
+   - Android: Google Play Store
+   - iOS: Apple App Store
+2. Open the app and tap **"Set Up Authenticator"**
+3. Log in with your Battle.net email and password
+4. The app will generate a serial number and start producing rotating 8-digit codes
+5. Blizzard may send a confirmation to your email
+6. Test the authenticator by logging out and back in
 
-1. Go to [myaccount.google.com/recovery/email](https://myaccount.google.com/recovery/email)
-2. Add an email address from a different provider
-3. Google sends a verification code to that address
-4. Confirm it
-5. This email becomes your account recovery method, replacing the need for a phone number
+### Step 5: Save Your Recovery Codes
 
----
-
-## Setting Up App Passwords for Third-Party Clients
-
-If you use email clients like Thunderbird, Outlook, or Apple Mail with your Gmail, and you have 2FA enabled, you need app passwords:
-
-### What Are App Passwords?
-
-App passwords are 16-character codes that grant third-party apps access to your Gmail account. They bypass 2FA for apps that do not support it natively.
-
-### How to Generate App Passwords
-
-1. Go to [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
-2. You must have 2FA enabled first
-3. Select the app type (Mail, Calendar, etc.)
-4. Select the device
-5. Click "Generate"
-6. Copy the 16-character password
-7. Use it in your email client instead of your regular password
-
-### App Password Security
-
-| Practice | Recommendation |
-|----------|---------------|
-| Storage | Store in password manager; you cannot view it again after generation |
-| One per app | Generate a separate app password for each application |
-| Revocation | Revoke unused app passwords in the same settings page |
-| Monitoring | Review active app passwords periodically |
-| Rotation | Regenerate app passwords every 6-12 months |
+1. After setting up the authenticator, Blizzard provides a **Restore Code**
+2. This code is essential -- it allows you to restore your authenticator on a new device
+3. Write this code down and store it securely:
+   - In a password manager (Bitwarden, KeePass, 1Password)
+   - On paper in a secure physical location
+   - Never in a plain text file on your computer
 
 ---
 
-## Gmail Privacy Settings and Configuration
+## Games That Require Phone Verification
 
-After creating your account, configure these privacy settings:
+### Overwatch 2
 
-### Google Activity Controls
+Overwatch 2's competitive mode requires SMS Protect (phone verification) to be enabled on your Battle.net account. Without it:
 
-Navigate to [myaccount.google.com/activitycontrols](https://myaccount.google.com/activitycontrols):
+- You can play Quick Play, Arcade, and Custom Games
+- You **cannot** access Competitive Mode (Ranked)
+- You cannot earn competitive points or a seasonal rank
 
-- **Web & App Activity** -- Controls whether Google saves your search and browsing activity. Consider pausing this.
-- **Location History** -- Tracks your physical location. Pause unless you actively want this.
-- **YouTube History** -- Records videos you watch and search for on YouTube.
-- **Ad Personalization** -- Controls targeted advertising. Disable at [adssettings.google.com](https://adssettings.google.com).
+**Steps to unlock Competitive in OW2:**
+1. Complete the new player experience (win 50 Quick Play matches for new accounts)
+2. Add a phone number to your Battle.net account (SMS Protect)
+3. Competitive Mode becomes available in the Play menu
 
-### Gmail-Specific Settings
+### Call of Duty (Modern Warfare, Warzone)
 
-In Gmail Settings (gear icon > See all settings):
+Call of Duty titles on Battle.net have varying phone requirements:
 
-- **General > Images** -- Select "Ask before displaying external images" to prevent tracking pixels from loading automatically
-- **General > Snippets** -- Disable if you share your screen often
-- **Labels** -- Create labels for organization instead of relying on promotional category tabs
-- **Filters** -- Set up filters to automatically label, archive, or delete incoming mail by sender or keyword
+- **Ranked Play** -- Requires phone verification
+- **Warzone** -- Has periodically required phone verification, especially during anti-cheat crackdowns
+- **Standard multiplayer** -- Usually does not require phone verification
+- **Campaign** -- No phone verification needed
 
-### Data Export and Portability
+### World of Warcraft
 
-Google Takeout ([takeout.google.com](https://takeout.google.com)) allows you to export all your Gmail data at any time. This is useful for:
+WoW does not strictly require phone verification, but adding SMS Protect provides:
 
-- Backing up emails locally
-- Migrating to another email provider
-- Verifying what data Google stores about you
+- Extra security for your characters and gold
+- Protection of rare items, mounts, and achievements accumulated over years
+- Faster account recovery if compromised
+- Access to the WoW Auction House Companion app
 
----
+### Diablo IV
 
-## Using Gmail With Email Clients
-
-Gmail supports standard email protocols for use with desktop and mobile clients:
-
-| Protocol | Port | Encryption | Use Case |
-|----------|------|------------|----------|
-| IMAP (incoming) | 993 | SSL/TLS | Sync mail across devices (recommended) |
-| POP3 (incoming) | 995 | SSL/TLS | Download mail to one device |
-| SMTP (outgoing) | 587 | STARTTLS | Send mail from clients |
-| SMTP (outgoing) | 465 | SSL/TLS | Alternative secure sending |
-
-### IMAP Settings for Gmail
-
-- **Server**: imap.gmail.com
-- **Port**: 993
-- **Encryption**: SSL/TLS
-- **Username**: your full Gmail address
-- **Password**: your app password (if 2FA is enabled)
-
-### SMTP Settings for Gmail
-
-- **Server**: smtp.gmail.com
-- **Port**: 587 (STARTTLS) or 465 (SSL)
-- **Authentication**: Required
-- **Username**: your full Gmail address
-- **Password**: your app password (if 2FA is enabled)
-
-Enable IMAP in Gmail: Settings > Forwarding and POP/IMAP > IMAP Access > Enable IMAP.
+Phone verification is not required for Diablo IV gameplay, but recommended for account security, especially if you trade items with other players.
 
 ---
 
-## Troubleshooting Gmail Signup Issues
+## Setting Up the Blizzard Authenticator
 
-### "This phone number has already been used too many times"
+The Blizzard Authenticator is the strongest security tool available for Battle.net accounts. It generates time-based one-time passwords (TOTP) that rotate every 30 seconds.
 
-The virtual number was previously used by other customers. Obtain a fresh number and retry.
+### Why the Authenticator Is Better Than SMS
 
-### "Gmail address is already taken"
+| Feature | SMS | Authenticator |
+|---|---|---|
+| Requires phone number access | Yes | No (after initial setup) |
+| Vulnerable to SIM swapping | Yes | No |
+| Works offline | No | Yes |
+| Can be intercepted | Yes (SS7 attacks) | No |
+| Free | Depends on carrier | Yes |
+| Speed | 10-60 seconds for SMS | Instant code generation |
 
-Your desired username is unavailable. Try:
+### Authenticator Setup Details
 
-- Adding a middle initial
-- Appending your profession (john.smith.dev)
-- Using a different name format (smithjohn, j.smith)
+**What the authenticator does:**
 
-### Phone Verification Screen Keeps Appearing Even After Verification
+- Generates a new 8-digit security code every 30 seconds
+- Required alongside your password during login
+- Can be set to "remember this device" for frequently used computers
+- Works independently of your phone number once configured
 
-This can happen if:
+**Compatibility:**
 
-- You cleared cookies between steps (do not clear cookies during signup)
-- Your IP address changed mid-signup
-- Google detected something suspicious about the session
+- Works on Android 8.0+ and iOS 14+
+- Can be restored on a new device using the Restore Code
+- Does not require an internet connection to generate codes
 
-Start the process again in a fresh browser profile without interruption.
+### Serial Number and Restore Code
 
-### "Sorry, we could not create your account"
+After setup, the Blizzard Authenticator provides two critical pieces of information:
 
-This generic error usually means:
+1. **Serial Number** -- Identifies your specific authenticator instance
+2. **Restore Code** -- A 10-character code needed to transfer the authenticator to a new device
 
-- Too many account creation attempts from your IP
-- Your IP is on a Google blocklist
-- The browser environment failed integrity checks
+Both should be recorded and stored securely. Losing both means you will need to contact Blizzard Support with photo ID to recover your account.
 
-Wait 24 hours, use a different residential IP, and try again with a clean browser.
+---
 
-### Account Disabled Shortly After Creation
+## Protecting Your Gaming Account From Hackers
 
-Google may disable accounts that:
+Gaming accounts are increasingly valuable targets. A well-established Battle.net account can contain hundreds or thousands of dollars worth of games, in-game items, and progress.
 
-- Were created through automated tools
-- Show immediate spam-like behavior (mass emailing)
-- Were created from heavily abused IP ranges
+### Why Hackers Target Gaming Accounts
 
-If your account is disabled in error, use the Google account recovery form to appeal. For your next attempt, [get a virtual number for email verification](https://1001sms.com/gmail?ref=P38AB) and create the account from a clean residential connection.
+| Asset | Approximate Value |
+|---|---|
+| Game library (multiple AAA titles) | $200-$1,000+ |
+| WoW characters with rare mounts/items | $100-$5,000+ |
+| Overwatch 2 skins and cosmetics | $50-$500+ |
+| Diablo IV characters and items | $50-$300+ |
+| Hearthstone card collection | $100-$2,000+ |
 
-### 2FA Setup Fails
+### Common Attack Vectors
 
-If the authenticator app code is not accepted:
+1. **Phishing emails** -- Fake "Blizzard" emails claiming your account is at risk, linking to credential-harvesting sites
+2. **Database leaks** -- Your email and password from another breached site are tried on Battle.net
+3. **Keyloggers and malware** -- Particularly common among gamers who download mods, overlays, or "free" game tools
+4. **Social engineering** -- Attackers call Blizzard support impersonating you to reset your credentials
+5. **SIM swap attacks** -- Attackers take over your phone number to receive your SMS verification codes
 
-- Ensure your device's time is synchronized (TOTP codes depend on accurate time)
-- Try generating a new QR code and rescanning
-- Use a different authenticator app to rule out app-specific bugs
+### Defense Strategy
+
+**Layer 1: Unique Credentials**
+- Use a password that is not used anywhere else
+- Use an email address that is not publicly associated with your gaming persona
+- Consider a separate email specifically for gaming accounts
+
+**Layer 2: Authenticator (Not SMS)**
+- Enable the Blizzard Authenticator as your primary 2FA method
+- This removes SMS as an attack surface while maintaining strong security
+
+**Layer 3: Virtual Number for SMS Protect**
+- If SMS Protect is required (competitive modes), a virtual number cannot be SIM-swapped
+- Attackers who try to take over your "phone number" through your carrier will find there is no carrier to social-engineer
+
+**Layer 4: Monitoring**
+- Check your login history regularly at account.blizzard.com
+- Enable email notifications for logins from new devices
+- Review connected games and payment methods periodically
+
+---
+
+## SIM Swap Attacks and Why Gamers Are Targeted
+
+SIM swapping is one of the most dangerous threats to accounts protected by SMS-based two-factor authentication. Understanding this threat explains why using a virtual number can actually be more secure than using your personal phone.
+
+### How SIM Swap Attacks Work
+
+```
+1. Attacker identifies a target with a valuable gaming account
+2. Attacker gathers personal information (name, address, carrier, phone number)
+   -- often from social media, data breaches, or gaming forums
+3. Attacker contacts the victim's mobile carrier, posing as the victim
+4. Attacker convinces the carrier to transfer the phone number to a new SIM card
+5. Attacker now receives all SMS messages sent to the victim's number
+6. Attacker resets the Battle.net password using SMS verification
+7. Attacker locks the real owner out by changing email, password, and phone
+8. Account is stripped of valuable items or sold on black markets
+```
+
+### Why Gamers Are Especially Vulnerable
+
+- **Public gaming profiles** reveal usernames and sometimes linked accounts
+- **Streaming and content creation** expose personal details and account values
+- **Gaming forums** often require email addresses that can be linked to accounts
+- **Tournament participation** may require real name disclosure
+- **In-game trading** reveals account wealth to potential attackers
+- **Competitive rankings** flag high-value accounts (Grandmaster in OW2, Global Elite in CS)
+
+### How Virtual Numbers Prevent SIM Swaps
+
+A virtual number from an [online SMS verification](https://1001sms.com/blizzard?ref=P38AB) provider cannot be SIM-swapped because:
+
+- There is no mobile carrier to social-engineer
+- The number is not tied to a physical SIM card
+- Attackers cannot walk into a store and claim to be you
+- The number exists only in the provider's digital infrastructure
+- Access requires the provider account credentials, not a carrier PIN
+
+This makes virtual numbers paradoxically more secure than personal numbers for high-value account protection, provided you also set up the Blizzard Authenticator as your primary login method.
+
+---
+
+## Account Recovery Without Your Original Number
+
+If you registered with a one-time virtual number and later need to recover your account, here are your options.
+
+### If You Have the Blizzard Authenticator
+
+This is the ideal scenario. With the authenticator active:
+
+1. Go to the Battle.net login page
+2. Enter your email and password
+3. Enter the code from your authenticator app
+4. You are in -- no phone number needed
+
+### If You Have the Restore Code
+
+If you lost access to your authenticator device but have the Restore Code:
+
+1. Download the Blizzard Authenticator on a new device
+2. Choose **"Restore Authenticator"**
+3. Enter your Serial Number and Restore Code
+4. The authenticator is restored and generates valid codes again
+
+### If You Lost Everything
+
+If you have no authenticator, no Restore Code, and no access to the phone number:
+
+1. Go to **Blizzard Support** (support.blizzard.com)
+2. Select **"I Can't Log In"**
+3. Choose **"Remove Authenticator"** or **"I Don't Have Access to My Phone"**
+4. Blizzard will ask you to submit a **government-issued photo ID** matching the name on the account
+5. Response time is typically 24-72 hours
+6. Once verified, Blizzard removes the authenticator and allows you to set up new security
+
+### Prevention Is Better
+
+To avoid this situation entirely:
+
+- [ ] Set up the Blizzard Authenticator immediately after creating your account
+- [ ] Save the Restore Code in at least two secure locations
+- [ ] Add a recovery email to your Battle.net account
+- [ ] Use an email provider with strong security (authenticator-based 2FA on the email too)
+- [ ] Keep your account name consistent with an ID you can produce if needed
 
 ---
 
 ## Frequently Asked Questions
 
-**Q: Is Gmail free to use without a phone number?**
+### Can I play Overwatch 2 Competitive without a phone number?
 
-A: Gmail is free. Google may require a phone number during signup for verification purposes, but this is a one-time step. Using a virtual number satisfies this requirement without using your personal number.
+No. Overwatch 2 requires SMS Protect to be enabled on your Battle.net account before you can access Competitive Mode. However, the phone number does not need to be your personal one -- a virtual number works for this verification.
 
-**Q: Can I create Gmail on my phone without a phone number?**
+### Does Blizzard block virtual numbers?
 
-A: You can create a Gmail account from a mobile device, but Google's verification requirements apply regardless of device. If prompted for phone verification, use a virtual number just as you would on desktop.
+Blizzard has been known to block certain types of VoIP numbers, particularly US-based ones. However, mobile-type virtual numbers from countries like the UK, Indonesia, or the Philippines typically work. If your first attempt is rejected, try a number from a different country.
 
-**Q: How many Gmail accounts can I create?**
+### Will I lose access to competitive modes if my virtual number expires?
 
-A: Google does not publish an official limit, but creating more than a few accounts from the same IP address or device will increasingly trigger verification and may result in accounts being flagged. Space out creation over days and use fresh virtual numbers for each.
+No. Once your phone number is verified and added to your account via SMS Protect, it stays on your account. You do not need ongoing access to the number to continue playing competitive modes. The verification is a one-time process -- [get a temporary phone number for gaming accounts](https://1001sms.com/blizzard?ref=P38AB), verify once, and you are set.
 
-**Q: Will my Gmail work normally if I used a virtual number to create it?**
+### Can I change the phone number on my Battle.net account later?
 
-A: Yes. The verification number is only used during the creation step. Your Gmail account functions identically regardless of what type of number was used for verification.
+Yes. You can update your phone number at any time through **Account Settings > Security > Phone Number**. You will need to verify the new number via SMS. If you no longer have access to the old number, you may need to contact Blizzard Support.
 
-**Q: Can I use Gmail without the Google ecosystem?**
+### Is the Blizzard Authenticator the same as Google Authenticator?
 
-A: Partially. You can use Gmail through IMAP/SMTP in any email client without interacting with other Google services. However, your Gmail address is also a Google account, so it technically has access to all Google services whether you use them or not.
+No. The Blizzard Authenticator is a dedicated app specific to Battle.net. It generates 8-digit codes (compared to the standard 6-digit TOTP codes in Google Authenticator). You cannot use Google Authenticator or other generic TOTP apps for Battle.net -- you must use Blizzard's own app.
 
-**Q: What is the difference between creating a Gmail and creating a Google account?**
+### Can I use one phone number for multiple Battle.net accounts?
 
-A: They are the same thing. When you create a Gmail address, you are creating a Google account with that email as the username. You can also create a Google account with a non-Gmail email address, but then you do not get an @gmail.com inbox.
+Blizzard limits the number of accounts that can be associated with a single phone number (typically one or two). If you need multiple accounts with phone verification, you will need separate numbers for each.
 
-**Q: Can I change my Gmail address later?**
+### Do I need a phone number for Diablo IV or Hearthstone?
 
-A: No. Gmail addresses are permanent. You can create a new account with a different address and forward mail from the old one, but the original address cannot be renamed.
+No. Neither Diablo IV nor Hearthstone currently requires phone verification for gameplay. However, adding SMS Protect is recommended for account security, especially if your account has valuable in-game items or purchases.
 
-**Q: Is it safe to use Gmail for sensitive communications?**
+### What happens to my account if Blizzard detects a virtual number?
 
-A: Gmail encrypts data in transit (TLS) and at rest. For end-to-end encryption, use Gmail's S/MIME feature (Workspace only) or a third-party tool like FlowCrypt (PGP). Standard Gmail is not end-to-end encrypted -- Google can access the content for features like Smart Compose and spam filtering.
+Even if Blizzard identifies a number as virtual, they do not retroactively ban accounts. At worst, the number might not be accepted during initial verification. Once a number is verified and accepted, your account status is not affected.
+
+### Can I still get banned for cheating if I use a virtual number?
+
+Yes. Using a virtual number does not bypass Blizzard's anti-cheat systems (Ricochet for Call of Duty, the built-in anti-cheat for Overwatch 2). The phone verification exists alongside anti-cheat, not as a replacement. Cheating will result in a ban regardless of the phone number type used.
 
 ---
 
-## Gmail Account Security Checklist
+## Security Checklist
 
-- [ ] Remove the virtual phone number from account settings after creation
-- [ ] Add a recovery email address from a non-Google provider
-- [ ] Enable two-factor authentication using an authenticator app
-- [ ] Save all 10 backup codes in a password manager
-- [ ] Consider registering a hardware security key for phishing resistance
-- [ ] Set Gmail to ask before displaying external images (blocks tracking pixels)
-- [ ] Generate app passwords for third-party email clients instead of using your main password
-- [ ] Review connected third-party apps at myaccount.google.com/permissions
-- [ ] Pause Web & App Activity if you do not want Google tracking your browsing
-- [ ] Disable ad personalization at adssettings.google.com
+### During Account Creation
+
+- [ ] Use a unique email address not publicly linked to your gaming identity
+- [ ] Set a strong password (16+ characters, mix of upper, lower, numbers, symbols)
+- [ ] Add a virtual number for SMS Protect verification
+- [ ] Complete email verification immediately
+
+### Immediately After Creation
+
+- [ ] Download and set up the Blizzard Authenticator app
+- [ ] Record the Serial Number and Restore Code in a password manager
+- [ ] Store a backup of the Restore Code in a separate secure location
+- [ ] Verify that the authenticator works by logging out and back in
+- [ ] Review login history at account.blizzard.com
+
+### Ongoing Security Practices
+
+- [ ] Never share your account credentials, even with friends or clan members
+- [ ] Do not click links in emails claiming to be from Blizzard -- navigate to the site directly
+- [ ] Keep the Blizzard Authenticator app updated
+- [ ] Review connected games and payment methods monthly
+- [ ] Be cautious of "free skin" or "free game key" offers on social media
+- [ ] Do not download game modifications or "trainers" from untrusted sources
+- [ ] Use a different password for your email than for Battle.net
 - [ ] Enable login notifications for unrecognized devices
-- [ ] Review "Where You're Signed In" sessions monthly
-- [ ] Use a password manager with a unique, strong password for this account
-- [ ] Set up email forwarding to a backup address for redundancy
+
+### What to Do If You Suspect Compromise
+
+- [ ] Change your Battle.net password immediately
+- [ ] Check recent login locations in your account security settings
+- [ ] Verify that your email, phone number, and authenticator have not been changed
+- [ ] Review recent purchases and game activity
+- [ ] Contact Blizzard Support if unauthorized changes were made
+- [ ] Scan your computer for malware
+- [ ] Change your email password if it uses the same credentials
 
 ---
 
 ## Affiliate Disclosure
 
-Some links in this guide are affiliate links. If you use them to purchase a service, we may earn a small commission at no extra cost to you. This helps support the creation of free, detailed guides like this one. We only recommend services we have personally tested and found reliable for the use cases described.
+Some links in this guide are affiliate links. This means that if you click through and make a purchase, we may receive a small commission at no additional cost to you. This helps us maintain and update this guide. We only recommend services that we have personally evaluated and believe provide real value to gamers.
 
 ---
 
 ## Keywords
 
-`create gmail without phone number` `gmail signup no phone verification` `gmail account without phone` `virtual number for gmail` `gmail phone verification bypass 2026` `new gmail account without phone` `gmail two-factor authentication` `gmail app passwords` `multiple gmail accounts` `gmail privacy settings` `gmail security without phone` `gmail IMAP setup` `anonymous gmail account` `gmail authenticator setup` `gmail recovery without phone number`
+`blizzard without phone number` `battle.net virtual number` `overwatch 2 sms verification` `battle.net account without phone` `blizzard authenticator setup` `call of duty phone verification` `gaming account security` `sim swap gaming` `battle.net sms protect` `virtual number for blizzard` `overwatch 2 competitive phone number` `blizzard account recovery` `gaming privacy` `battle.net two-factor authentication` `warzone phone verification` `protect gaming account from hackers`
